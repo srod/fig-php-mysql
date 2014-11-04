@@ -1,4 +1,10 @@
-fig-php-mysql
-=============
+# fig and php / mysql server
 
-Using fig to setup a php + apache with mysql server using docker.
+## requirement
+
+ * installed [docker](https://www.docker.com)
+ * installed [fig](http://www.fig.sh)
+
+## usage
+
+    fig up -d
